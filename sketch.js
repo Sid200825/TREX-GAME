@@ -51,8 +51,8 @@ restart.visible=false;
 }
 
 function draw() {
-  background(150);
-  fill("white")
+  background(255);
+  fill("black")
   
   text("Score: "+ count, 450, 80);
   if (x===1) {
